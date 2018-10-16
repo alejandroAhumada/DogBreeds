@@ -1,0 +1,7 @@
+<!-- This is used by glide while setting image on ImageView on which tag has been set. -->
+<!-- Removing this file will result in exception with ImageView whose tag has been set. -->
+<!-- Esto se usa al deslizar mientras se establece la imagen en ImageView en la etiqueta que se ha configurado. -->
+<!-- La eliminación de este archivo dará como resultado una excepción con ImageView cuya etiqueta se ha establecido. -->
+<resources>
+    <item type="id" name="glide_tag" />
+</resources>
